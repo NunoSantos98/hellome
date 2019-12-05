@@ -1,2 +1,2 @@
-# hellome
-this is my cool project
+# My project 
+## this is my cool project
